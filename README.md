@@ -1,5 +1,5 @@
 # Programming Language Project
-Project realized for the bachelor course of Programming Language for Università Milano Bicocca.
+Project realized for the bachelor course of Programming Language for University Milano Bicocca.
 
 The aim of this project is to realize two libraries, one in **Prolog** and the other in **Common Lisp**, that build data structures representing JSON objects starting from their representation as strings.
 
